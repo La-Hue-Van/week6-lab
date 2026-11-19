@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 .coverage
 htmlcov/
+__pycache__/
+build/
+staged/
+*.zip
+app.log
